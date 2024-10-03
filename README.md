@@ -17,8 +17,9 @@ DATA VIEWER es una aplicación web interactiva diseñada para visualizar y anali
 
 ## Cómo Usar
 
-1. Utilizar los botones para generar los diferentes gráficos y tablas.
-2. Filtrar la información según las necesidades del usuario.
+1. Ingresar al siguiente enlace https://github.com/CECIJU15/my_project_sprint6.git
+2. Utilizar los botones para generar los diferentes gráficos y tablas.
+3. Filtrar la información según las necesidades del usuario.
 
 ## Requisitos
 
