@@ -17,7 +17,7 @@ DATA VIEWER es una aplicación web interactiva diseñada para visualizar y anali
 
 ## Cómo Usar
 
-1. Ingresar al siguiente enlace https://github.com/CECIJU15/my_project_sprint6.git
+1. Ingresar al siguiente enlace https://my-project-sprint6-r6o8.onrender.com
 2. Utilizar los botones para generar los diferentes gráficos y tablas.
 3. Filtrar la información según las necesidades del usuario.
 
@@ -29,6 +29,6 @@ DATA VIEWER es una aplicación web interactiva diseñada para visualizar y anali
 
 ## Instalación
 
-1. Clona este repositorio.
+1. Clona este repositorio, clic en este enlace https://github.com/CECIJU15/my_project_sprint6.git para acceder al repositorio.
 2. Instala las dependencias necesarias usando `pip install -r requirements.txt`.
 3. Ejecuta la aplicación con `streamlit run app.py`.
